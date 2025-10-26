@@ -2,20 +2,14 @@ import React from 'react';
 import { NavLink } from 'react-router';
 import Button from '../Button';
 import { assets } from '../../assets/asset';
-import style from './Navbar.module.css';
+
+import HeroLogo from '../common/HeroLogo';
 
 function Navbar() {
     return (
         <div className='flex justify-around py-3'>
             <NavLink to={'/'}>
-                <div className='flex items-center gap-2'>
-                    <img
-                        className='w-10 h-10'
-                        src={assets.logo}
-                        alt=''
-                    />
-                    <span className={style.hero}>Hero.io</span>
-                </div>
+                <HeroLogo />
             </NavLink>
 
             <div>
