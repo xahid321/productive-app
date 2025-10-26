@@ -4,6 +4,7 @@ import ShortContent from './common/ShortContent';
 import Button from './Button';
 import Image from './common/Image';
 import { assets } from '../assets/asset';
+import { NavLink } from 'react-router';
 
 function Hero() {
     return (
@@ -17,24 +18,29 @@ function Hero() {
                 Our goal is to turn your ideas into digital experiences that truly make an impact.
             </ShortContent>
             <div className='flex gap-6'>
-                <Button
-                    className={`border border-black w-[200px]`}
-                    icon={
-                        <img
-                            className='px-2'
-                            src={assets.playstore}></img>
-                    }>
-                    Google Play
-                </Button>
-                <Button
-                    className={`border border-black w-[200px]`}
-                    icon={
-                        <img
-                            className='px-2'
-                            src={assets.appstore}></img>
-                    }>
-                    App Store
-                </Button>
+                <NavLink to='https://play.google.com/store/games?hl=en'>
+                    <Button
+                        className={`border border-black w-[200px]`}
+                        icon={
+                            <img
+                                className='px-2'
+                                src={assets.playstore}></img>
+                        }>
+                        Google Play
+                    </Button>
+                </NavLink>
+
+                <NavLink to='https://www.apple.com/app-store/'>
+                    <Button
+                        className={`border border-black w-[200px]`}
+                        icon={
+                            <img
+                                className='px-2'
+                                src={assets.appstore}></img>
+                        }>
+                        App Store
+                    </Button>
+                </NavLink>
             </div>
 
             <Image src={assets.hero} />

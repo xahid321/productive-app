@@ -32,7 +32,7 @@ function Navbar() {
                 </ul>
             </div>
             <div>
-                <NavLink>
+                <NavLink to={''}>
                     <Button
                         className={`bg-linear-to-r from-[#632EE3] to-[#9F62F2] text-white`}
                         icon={
