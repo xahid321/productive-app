@@ -4,3 +4,8 @@
     font-weight: 700;
     text-align: left;
 }
+
+li:hover {
+    text-decoration: underline;
+    color: purple;
+}

@@ -1,0 +1,362 @@
+[
+    {
+        "id": 1,
+        "image": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7?w=800",
+        "title": "TaskFlow: The new window",
+        "companyName": "Nimbus Labs",
+        "description": "A modern productivity app that helps teams organize, track, and deliver projects efficiently.",
+        "size": 42,
+        "reviews": 1280,
+        "ratingAvg": 4.5,
+        "downloads": 250000,
+        "ratings": [
+            { "name": "1 star", "count": 45 },
+            { "name": "2 star", "count": 82 },
+            { "name": "3 star", "count": 210 },
+            { "name": "4 star", "count": 460 },
+            { "name": "5 star", "count": 483 }
+        ]
+    },
+    {
+        "id": 2,
+        "image": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7?w=800",
+        "title": "PhotoNest: Nest for Bird",
+        "companyName": "Visionary Studio",
+        "description": "A sleek gallery app for photographers to store, organize, and showcase their portfolios.",
+        "size": 58,
+        "reviews": 980,
+        "ratingAvg": 4.7,
+        "downloads": 180000,
+        "ratings": [
+            { "name": "1 star", "count": 20 },
+            { "name": "2 star", "count": 55 },
+            { "name": "3 star", "count": 140 },
+            { "name": "4 star", "count": 310 },
+            { "name": "5 star", "count": 455 }
+        ]
+    },
+    {
+        "id": 3,
+        "image": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7?w=800",
+        "title": "FitTrack Pro: Fitness overflow",
+        "companyName": "VitalEdge",
+        "description": "An all-in-one fitness tracker with smart AI insights and real-time performance analytics.",
+        "size": 65,
+        "reviews": 1675,
+        "ratingAvg": 4.3,
+        "downloads": 540000,
+        "ratings": [
+            { "name": "1 star", "count": 96 },
+            { "name": "2 star", "count": 123 },
+            { "name": "3 star", "count": 342 },
+            { "name": "4 star", "count": 620 },
+            { "name": "5 star", "count": 494 }
+        ]
+    },
+    {
+        "id": 4,
+        "image": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7?w=800",
+        "title": "NoteWave: Wave on the Sea",
+        "companyName": "FlowByte Inc.",
+        "description": "A cloud-synced note-taking app built for creators, writers, and students.",
+        "size": 38,
+        "reviews": 870,
+        "ratingAvg": 4.6,
+        "downloads": 190000,
+        "ratings": [
+            { "name": "1 star", "count": 32 },
+            { "name": "2 star", "count": 44 },
+            { "name": "3 star", "count": 155 },
+            { "name": "4 star", "count": 280 },
+            { "name": "5 star", "count": 359 }
+        ]
+    },
+    {
+        "id": 5,
+        "image": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7?w=800",
+        "title": "Travelio: The Trimet",
+        "companyName": "SkyBound Tech",
+        "description": "An intuitive travel planner app that helps users discover and organize trips with ease.",
+        "size": 50,
+        "reviews": 1520,
+        "ratingAvg": 4.8,
+        "downloads": 630000,
+        "ratings": [
+            { "name": "1 star", "count": 18 },
+            { "name": "2 star", "count": 47 },
+            { "name": "3 star", "count": 133 },
+            { "name": "4 star", "count": 415 },
+            { "name": "5 star", "count": 907 }
+        ]
+    },
+    {
+        "id": 6,
+        "image": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7?w=800",
+        "title": "BudgetWise: Best Budget App",
+        "companyName": "FinEdge",
+        "description": "Smart budgeting and expense tracking for personal and business use.",
+        "size": 37,
+        "reviews": 1140,
+        "ratingAvg": 4.4,
+        "downloads": 400000,
+        "ratings": [
+            { "name": "1 star", "count": 65 },
+            { "name": "2 star", "count": 74 },
+            { "name": "3 star", "count": 200 },
+            { "name": "4 star", "count": 410 },
+            { "name": "5 star", "count": 391 }
+        ]
+    },
+    {
+        "id": 7,
+        "image": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7?w=800",
+        "title": "MindEase: Shape your mind",
+        "companyName": "Serenity Works",
+        "description": "Meditation and mindfulness app designed to improve focus and reduce stress.",
+        "size": 45,
+        "reviews": 2200,
+        "ratingAvg": 4.9,
+        "downloads": 780000,
+        "ratings": [
+            { "name": "1 star", "count": 22 },
+            { "name": "2 star", "count": 39 },
+            { "name": "3 star", "count": 150 },
+            { "name": "4 star", "count": 460 },
+            { "name": "5 star", "count": 1529 }
+        ]
+    },
+    {
+        "id": 8,
+        "image": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7?w=800",
+        "title": "RecipeBook: Cook Your Ego",
+        "companyName": "KitchenCloud",
+        "description": "Discover, share, and save recipes from around the world in one place.",
+        "size": 52,
+        "reviews": 980,
+        "ratingAvg": 4.5,
+        "downloads": 240000,
+        "ratings": [
+            { "name": "1 star", "count": 36 },
+            { "name": "2 star", "count": 62 },
+            { "name": "3 star", "count": 190 },
+            { "name": "4 star", "count": 330 },
+            { "name": "5 star", "count": 362 }
+        ]
+    },
+    {
+        "id": 9,
+        "image": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7?w=800",
+        "title": "SoundSphere: Feel the bit",
+        "companyName": "EchoTech",
+        "description": "High-quality music streaming with smart recommendations and curated playlists.",
+        "size": 70,
+        "reviews": 3210,
+        "ratingAvg": 4.6,
+        "downloads": 1250000,
+        "ratings": [
+            { "name": "1 star", "count": 110 },
+            { "name": "2 star", "count": 140 },
+            { "name": "3 star", "count": 380 },
+            { "name": "4 star", "count": 920 },
+            { "name": "5 star", "count": 1660 }
+        ]
+    },
+    {
+        "id": 10,
+        "image": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7?w=800",
+        "title": "Weatherly: Weather for Playing",
+        "companyName": "ClimaSoft",
+        "description": "Accurate real-time weather forecasts and personalized climate alerts.",
+        "size": 35,
+        "reviews": 540,
+        "ratingAvg": 4.2,
+        "downloads": 90000,
+        "ratings": [
+            { "name": "1 star", "count": 30 },
+            { "name": "2 star", "count": 49 },
+            { "name": "3 star", "count": 120 },
+            { "name": "4 star", "count": 150 },
+            { "name": "5 star", "count": 191 }
+        ]
+    },
+    {
+        "id": 11,
+        "image": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7?w=800",
+        "title": "EduMaster: Master of Education",
+        "companyName": "BrightLearn",
+        "description": "Interactive learning platform with gamified courses and skill tracking.",
+        "size": 80,
+        "reviews": 1980,
+        "ratingAvg": 4.8,
+        "downloads": 870000,
+        "ratings": [
+            { "name": "1 star", "count": 30 },
+            { "name": "2 star", "count": 59 },
+            { "name": "3 star", "count": 140 },
+            { "name": "4 star", "count": 440 },
+            { "name": "5 star", "count": 1311 }
+        ]
+    },
+    {
+        "id": 12,
+        "image": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7?w=800",
+        "title": "CryptoGuard: Binance Crypto Vault",
+        "companyName": "BlockSecure",
+        "description": "Track cryptocurrency portfolios securely with live market analytics.",
+        "size": 59,
+        "reviews": 1430,
+        "ratingAvg": 4.4,
+        "downloads": 380000,
+        "ratings": [
+            { "name": "1 star", "count": 90 },
+            { "name": "2 star", "count": 105 },
+            { "name": "3 star", "count": 260 },
+            { "name": "4 star", "count": 440 },
+            { "name": "5 star", "count": 535 }
+        ]
+    },
+    {
+        "id": 13,
+        "image": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7?w=800",
+        "title": "Artify: Art your future",
+        "companyName": "PixelLab",
+        "description": "AI-powered digital art creator that transforms ideas into beautiful visuals.",
+        "size": 68,
+        "reviews": 890,
+        "ratingAvg": 4.5,
+        "downloads": 210000,
+        "ratings": [
+            { "name": "1 star", "count": 25 },
+            { "name": "2 star", "count": 60 },
+            { "name": "3 star", "count": 120 },
+            { "name": "4 star", "count": 280 },
+            { "name": "5 star", "count": 405 }
+        ]
+    },
+    {
+        "id": 14,
+        "image": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7?w=800",
+        "title": "OceanView: See the ocean",
+        "companyName": "NatureNow",
+        "description": "Relaxing ambient app that streams live ocean sounds and calming visuals.",
+        "size": 30,
+        "reviews": 1120,
+        "ratingAvg": 4.9,
+        "downloads": 320000,
+        "ratings": [
+            { "name": "1 star", "count": 8 },
+            { "name": "2 star", "count": 15 },
+            { "name": "3 star", "count": 65 },
+            { "name": "4 star", "count": 230 },
+            { "name": "5 star", "count": 802 }
+        ]
+    },
+    {
+        "id": 15,
+        "image": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7?w=800",
+        "title": "CodeSmith: The Blacksmith",
+        "companyName": "DevCore",
+        "description": "Learn coding interactively with challenges, projects, and instant feedback.",
+        "size": 85,
+        "reviews": 2760,
+        "ratingAvg": 4.7,
+        "downloads": 960000,
+        "ratings": [
+            { "name": "1 star", "count": 55 },
+            { "name": "2 star", "count": 70 },
+            { "name": "3 star", "count": 220 },
+            { "name": "4 star", "count": 610 },
+            { "name": "5 star", "count": 1805 }
+        ]
+    },
+    {
+        "id": 16,
+        "image": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7?w=800",
+        "title": "ShopSmart: Get Smart",
+        "companyName": "BuyEase",
+        "description": "Online shopping app that finds the best deals and tracks prices in real time.",
+        "size": 73,
+        "reviews": 1320,
+        "ratingAvg": 4.2,
+        "downloads": 450000,
+        "ratings": [
+            { "name": "1 star", "count": 80 },
+            { "name": "2 star", "count": 110 },
+            { "name": "3 star", "count": 250 },
+            { "name": "4 star", "count": 410 },
+            { "name": "5 star", "count": 470 }
+        ]
+    },
+    {
+        "id": 17,
+        "image": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7?w=800",
+        "title": "DocuScan: Scanner for your character",
+        "companyName": "Paperless Co.",
+        "description": "Scan, organize, and manage documents with OCR-powered text recognition.",
+        "size": 40,
+        "reviews": 1180,
+        "ratingAvg": 4.5,
+        "downloads": 230000,
+        "ratings": [
+            { "name": "1 star", "count": 42 },
+            { "name": "2 star", "count": 65 },
+            { "name": "3 star", "count": 190 },
+            { "name": "4 star", "count": 310 },
+            { "name": "5 star", "count": 573 }
+        ]
+    },
+    {
+        "id": 18,
+        "image": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7?w=800",
+        "title": "GameForge: Play games, Waste times",
+        "companyName": "PlayNest",
+        "description": "Create and publish mobile games easily with built-in templates and AI tools.",
+        "size": 95,
+        "reviews": 2450,
+        "ratingAvg": 4.3,
+        "downloads": 670000,
+        "ratings": [
+            { "name": "1 star", "count": 120 },
+            { "name": "2 star", "count": 160 },
+            { "name": "3 star", "count": 390 },
+            { "name": "4 star", "count": 730 },
+            { "name": "5 star", "count": 1050 }
+        ]
+    },
+    {
+        "id": 19,
+        "image": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7?w=800",
+        "title": "PetCare+: Drink coffee",
+        "companyName": "HappyPaws",
+        "description": "Pet care tracker with feeding reminders, vet logs, and community sharing.",
+        "size": 48,
+        "reviews": 960,
+        "ratingAvg": 4.6,
+        "downloads": 210000,
+        "ratings": [
+            { "name": "1 star", "count": 30 },
+            { "name": "2 star", "count": 50 },
+            { "name": "3 star", "count": 160 },
+            { "name": "4 star", "count": 290 },
+            { "name": "5 star", "count": 430 }
+        ]
+    },
+    {
+        "id": 20,
+        "image": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7?w=800",
+        "title": "Langify: What do you mean by ?",
+        "companyName": "PolyLingua",
+        "description": "Language learning app with speech recognition and gamified lessons.",
+        "size": 61,
+        "reviews": 1840,
+        "ratingAvg": 4.8,
+        "downloads": 560000,
+        "ratings": [
+            { "name": "1 star", "count": 28 },
+            { "name": "2 star", "count": 46 },
+            { "name": "3 star", "count": 190 },
+            { "name": "4 star", "count": 490 },
+            { "name": "5 star", "count": 1086 }
+        ]
+    }
+]
