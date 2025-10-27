@@ -1,7 +1,16 @@
 import React from 'react';
+import { useLoaderData } from 'react-router';
 
 function AppDetails() {
-    return <div>AppDetails</div>;
+    const AppData = useLoaderData();
+    console.log(AppData);
+
+    return (
+        <div>
+            <span> {AppData.title}</span>
+            <span>{AppData.length}</span>
+        </div>
+    );
 }
 
 export default AppDetails;

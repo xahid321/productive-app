@@ -26,10 +26,9 @@ function SingleApp({ app }) {
 
                     <div className='flex justify-between mt-4'>
                         <p>{formatMillions(app.downloads)} </p>
-
                         <p className='flex'>
                             {app.ratings.map((r) => (
-                                <StarRating>{r.name}</StarRating>
+                                <StarRating key={r.count}>{r.name}</StarRating>
                             ))}
                         </p>
                     </div>
